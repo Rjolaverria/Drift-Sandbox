@@ -7,7 +7,7 @@ export default function Home() {
             <Head>
                 <title>Sandbox for Drift</title>
                 <link rel='icon' href='/drift-icon.png' />
-                <script type='text/javascript' src='/drift.js' />
+                <script type='text/javascript' src='static/drift.js' />
             </Head>
 
             <main className={styles.main}>
